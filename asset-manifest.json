@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/google_ai_json_parser/static/js/main.4eb5b968.js",
+    "main.js": "/google_ai_json_parser/static/js/main.0619ffae.js",
     "index.html": "/google_ai_json_parser/index.html",
-    "main.4eb5b968.js.map": "/google_ai_json_parser/static/js/main.4eb5b968.js.map"
+    "main.0619ffae.js.map": "/google_ai_json_parser/static/js/main.0619ffae.js.map"
   },
   "entrypoints": [
-    "static/js/main.4eb5b968.js"
+    "static/js/main.0619ffae.js"
   ]
 }
