@@ -1,0 +1,5 @@
+{
+  "name": "JSON Parser & Beautifier",
+  "description": "A tool to parse, validate, and beautify JSON text. It provides real-time feedback and highlights errors to help developers debug JSON structures efficiently.",
+  "requestFramePermissions": []
+}
