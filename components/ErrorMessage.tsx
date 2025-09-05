@@ -34,7 +34,7 @@ const ErrorMessage: React.FC<ErrorMessageProps> = ({ message, inputText }) => {
   }
 
   return (
-    <div className="bg-red-900/30 border border-red-500/50 text-red-300 p-3 rounded-lg flex items-start">
+    <div className="bg-red-900/30 border border-red-500/50 text-red-300 p-2 rounded-lg flex items-start">
       <FaTimesCircle className="text-2xl text-red-400 mr-3 flex-shrink-0 mt-1" />
       <div>
         <p className="font-bold text-red-200">Parsing Failed</p>
